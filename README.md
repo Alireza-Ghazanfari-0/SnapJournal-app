@@ -60,7 +60,7 @@ The application is fully responsive and optimized for all screen sizes.
 
 # 🌐 Live Demo | لینک پروژه
 
-(After deployment, add your live URL here)
+(https://snapjournal-app.onrender.com)
 
 ---
 
